@@ -1,0 +1,4 @@
+name: always sprint
+version: '1.0-SNAPSHOT'
+main: io.github.Ethan1319.alwaysSprint.AlwaysSprint
+api-version: '1.21'
